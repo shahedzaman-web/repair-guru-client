@@ -4,7 +4,7 @@ import "firebase/auth";
 import firebaseConfig from "./firebase.config";
 import { UserContext } from "../../../App";
 import { useHistory, useLocation } from "react-router-dom";
-import LoginBg from "../../../images/loginBg.png";
+import LoginBg from "../../../images/loginBg.jpg";
 
 const Login = () => {
   const [loggedInUser, setLoggedInUser] = useContext(UserContext);
