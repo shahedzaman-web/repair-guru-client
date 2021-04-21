@@ -1,21 +1,23 @@
-.footer-area{
-    background-image: url(../../../images/footer-bg.png);
-    background-size: cover;
+.footer-style{
+    background-color: #383e56;
+    color: bisque;
 }
-
-.footer-area li{
-    padding-bottom: 10px;
-}
-
-.social-media .icon{
-    height: 40px;
-    width: 40px;
-    color: #1cc7c1;
-    border-radius: 50%;
-    border: 1px solid #6ACECE;
-    padding: 10px;
-}
-.social-media .active-icon{
-    background-color: #6ACECE ;
-    color:white;
-}
+a:link {
+    text-decoration: none;
+    color: #222932;
+    padding: 5px;
+    
+    font-size: 20px;
+  }
+  
+  a:visited {
+    color: #ef4f4f;
+  }
+  
+  a:hover {
+   color: #eeeeee;
+  }
+  
+  a:active {
+   color: hotpink;
+  } 
