@@ -19,3 +19,10 @@ Live site link : https://repair-guru-sz.web.app/
 
 • An admin can make another user as admin.
 
+### Technology: 
+• ReactJs
+• React router
+• Bootstrap
+• Firebase
+• Authentication
+• Stripe Payment Methood
